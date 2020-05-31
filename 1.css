@@ -1,0 +1,375 @@
+.one{
+	height: 100px;
+	width: 100%;
+	background-color: #f3f5f7;
+}
+.two{
+	height: 420px;
+	background:rgba(29,11,106,1);
+	background-image: url('tupian/banner2@2x.png');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+.one1{
+	height: 100px;
+	width: 1200px;
+	margin: 0 auto;
+}
+.two1{
+	height: 420px;
+	width: 1200px;
+	margin: 0 auto;
+}
+.xue{
+	width:170px;
+	height:39px;
+	font-size:40px;
+	font-family:Microsoft YaHei;
+	font-weight:bold;
+	color:rgba(0,163,255,1);
+	padding-top:23px;
+	padding-left: 9px; 
+	float: left;
+}
+.one1 ul{
+	width:360px;
+	height:18px;
+	padding-top: 42px;
+	padding-left: 100px; 
+	float: left;
+}
+.one1 ul li{
+	float: left;
+	width: 120px;
+}
+.one1 a{
+	font-size:18px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(5,5,5,1);
+}
+.zhongxin{
+	width:60px;
+	height:12px;
+	font-size:14px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(101,101,101,1);
+	float: right;
+	padding-top: 40px;
+	padding-left: 30px;
+}
+.kuang{
+	float: right;
+}
+.search{
+	height: 38px;
+	width: 359px;
+	border: 1px solid #00a4ff;
+	margin-top: 31px;
+	font-size:14px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(191,191,191,1);
+	line-height:31px;
+	text-indent: 19px;
+	float: left;
+}
+.submit{
+	height: 40px;
+	width: 50px;
+	background: url('tupian/sousuo.png') no-repeat center;
+	background-color: #00a4ff; 
+	margin-top: 31px;
+	border: 1px solid #00a4ff;
+	float: left;
+}
+.two1 ul{
+	height: 420px;
+	width: 190px;
+	background:rgba(0,0,0,0.3);
+	padding-left: 20px;
+}
+.two1 ul li{
+	font-size:14px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:white;
+	line-height:44px;
+}
+.three{
+		background-color: #F3F5F7;
+	}
+.tuijian{
+		margin: 0 auto;
+		width:1200px;
+		height:60px;
+		background:rgba(255,255,255,1);
+		box-shadow:0px 2px 3px 0px rgba(117,117,117,0.2);
+	}
+
+.tuijian ul li{
+	width: 124px;
+	border-left: 1px solid rgba(190,190,190,1);
+	text-align: center;
+	margin-top: 21px;
+	float: left;
+	font-size:16px;
+	font-family:Microsoft YaHei;
+	font-weight:bold;
+	color: black;
+}
+.tuijian ul .jingpin a{
+			border: none;
+			color: #42B2FF;
+			}
+.tuijian .right a{
+		float: right;
+		font-size: 14px;
+		color: #42B2FF;
+		margin-top: 21px;
+		margin-right: 61px;
+}
+.tuijian .left a{
+	color: black;
+}
+.jing{
+	height: 80px;
+	width: 1200px;
+	margin: 0 auto;
+}
+.jing>.zuo{
+	color:rgba(74,74,74,1);
+	padding-top: 35px;
+	float: left;
+	font-size:20px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+}
+.jing>.you{
+	color:rgba(163,163,163,1);
+	padding-top: 43px;
+	padding-right: 30px;
+	float: right;
+	font-size:12px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+}
+.first{
+	width: 1250px;
+	height: 269px;
+	margin: 0 auto;
+	margin-top: 21px;
+}
+.first a{
+	width: 230px;
+	height: 150px;
+	margin-top: 0;
+}
+.first>div{
+	margin-top: 0;
+	float: left;
+	width: 230px;
+	height: 270px;
+	margin-left: 15px;
+	background:rgba(255,255,255,1);
+	box-shadow:0px 2px 5px 0px rgba(117,117,117,0.5);
+}
+.firsy b{
+	line-height:25px;
+	margin-left:24px;
+	margin-top:24px;
+	width: 180px;
+	margin: 0 auto;
+	float: left;
+	font-size:15px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:#050505;
+	
+}
+.first .gao{
+	font-weight:400;
+	color:#FF9159;
+	margin-left: 20px;
+	margin-top:18px;
+	font-size:12px;
+	font-family:Microsoft YaHei;
+	
+}
+.first .zai{
+	font-size:12px;
+	font-weight:400;
+	color: #989898;
+	margin-top: 18px;
+	margin-left: 10px;
+	font-family:Microsoft YaHei;
+}
+.chicun{
+	width: 230px;
+	height: 150px;
+	margin-top: 0;
+}
+.zi1{
+	font-size:15px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:#050505;
+	line-height:20px;
+	margin-left: 24px;
+	margin-top: 15px;
+	width: 186px;
+}
+.zi2{
+	font-size:12px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:#FF9159;
+	margin-left: 23px;
+	margin-top: 18px;
+}
+.zi3{
+	font-size:12px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color: #989898;
+	margin-top: 18px;
+	margin-left: 10px;
+}
+.remen {
+	width: 1200px;
+	height: 77px;
+	margin: 0 auto;
+}
+.remen .zuo{
+		float: left;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:#484848;
+		margin-top: 35px;
+		font-size:20px;
+
+}
+.remen>ul{
+		float: left;
+		margin-left: 200px;
+}
+.remen>ul li{
+		float: left;
+		padding-left: 72px;
+		font-size:16px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:#868686;
+		margin-top: 50px;
+}
+.remen .you{
+		float: right;
+		font-size:12px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:#C1C2C3;
+		margin-top:50px;
+		margin-right: 40px;
+}
+.dalao{
+	height: 320px;
+	width: 1250px;
+	margin: 0 auto;
+}
+.dalao .jiefang{
+	float: left;
+	width: 471px;
+	height: 320px;
+	background-image: url('tupian/biyeji.png');
+}
+.dalao .daini{
+	width: 163px;
+	color: white;
+	line-height: 36px;
+	display: block;
+	margin-left: 25px;
+	font-size:27px;
+}
+.dalao .biyele{
+	width: 163px;
+	color:rgba(242,224,53,1);
+	line-height:36px;
+	margin-left: 25px;
+	margin-top: 99px;
+	display: block;
+	font-size:30px;
+	font-family:Microsoft YaHei;
+	font-weight:bold;
+	
+}
+.dalao .dianji{
+	padding-left: 0px;
+	padding-top: 5px;
+	margin-left: 28px;
+	margin-top: 12px;
+	font-size:13.24px;
+	font-family:Microsoft YaHei;
+	text-align: center;
+	display: block;
+	width: 87px;
+	height: 25px;
+	font-weight:400;
+	color:rgba(242,224,53,1);
+	line-height:20px;
+	border: 1px solid rgba(242,224,53,1);
+
+}
+.dalao>div{
+	float: left;
+	width: 228px;
+	height: 320px;
+	margin-left: 15px;
+}
+.dalao .zuo{
+	background-image: url('tupian/diyi.png');
+	background-position: -6px -6px;
+}
+.dalao .mide{
+	background-image: url('tupian/dier.png');
+	background-position: -6px -6px;
+}
+.dalao .you{
+	background-image: url('tupian/disan.png');
+	background-position: -6px -6px;
+}
+.dalao .xiabian{
+	width:229px;
+	height:122px;
+	background:rgba(0,0,0,0.5);
+	position: relative;
+	bottom: -62%;
+}
+.dalao p{
+	margin-left: 29px;
+}
+.dalao .gongzuo{
+	font-size: 14px;
+	color: white;
+}
+.dalao .teacher{
+	font-size: 18px;
+	color: white;
+	font-weight: bold;
+}
+.dalao .first5{
+	padding-top: 21px;
+	width: 108px;
+	height: 18px;
+}
+.dalao .second5{
+	color:rgba(255,255,255,1);
+	line-height:20px;
+	padding-top: 12px;
+	display: block;
+	font-size:12px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	width: 175px;
+	height: 53px;
+}
